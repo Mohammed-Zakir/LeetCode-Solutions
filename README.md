@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -17,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
