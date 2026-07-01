@@ -64,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
