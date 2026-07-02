@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
