@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -98,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
