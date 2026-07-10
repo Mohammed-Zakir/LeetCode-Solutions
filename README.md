@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
