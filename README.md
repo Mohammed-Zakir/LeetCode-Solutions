@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
