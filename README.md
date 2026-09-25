@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
