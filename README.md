@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1920-build-array-from-permutation](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Zakir/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
